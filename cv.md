@@ -33,6 +33,8 @@ function multiply(a, b){
 ## Education
 
 - BSU (Law faculty)
+- Courses:
+  - Yandex Practicum. Web-developer (trial version)
 
 ## English language level
 
