@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hustouski.github.io/rsschool-cv/
